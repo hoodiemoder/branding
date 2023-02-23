@@ -1,0 +1,12 @@
+* Palette
+[[showcase.svg]]
+
+** Brand color palette:
+*** #000000 (black)
+Just black.
+*** #5f3f7f (purple)
+537 -> set purple.
+*** #ebebeb (off-white)
+ebebeb, hue of white that is not #ffffff (white).
+*** #faaff3 (pink)
+High contrast pink, used for debugging.
