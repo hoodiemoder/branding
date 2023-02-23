@@ -1,5 +1,4 @@
 * Brand color palette:
-
 ** #000000 (black)
 Just black.
 ** #5f3f7f (purple)
@@ -9,3 +8,6 @@ ebebeb, hue of white that is not #ffffff (white).
 ** #faaff3 (pink)
 High contrast pink.
 
+* Showcase
+
+[[showcase.svg]]
